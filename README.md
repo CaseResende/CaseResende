@@ -1,6 +1,6 @@
 ## Olá, Mundo! Eu sou o Carlos André! 😎
 - Trabalho como Chefe de TI
-- Estudando Python e HTML/CSS
+- Estudando Python e HTML/CSS/Java Script
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaseResende&show_icons=true&theme=transparent)

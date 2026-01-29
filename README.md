@@ -5,7 +5,7 @@ Mais de 15 anos de experiência em TI: infraestrutura, automação e sistemas co
 
 🚀 **Resumo:**
 - Desenvolvo soluções em Python e Flet para desktop e web.  
-- Em transição para JavaScript, TypeScript e Node.js.  
+- Em transição para JavaScript e TypeScript.  
 - Experiência sólida com GLPI, Zabbix, Active Directory e automações de processos.  
 - Busco criar interfaces modernas, APIs e integrar sistemas corporativos.
 
@@ -23,7 +23,6 @@ Mais de 15 anos de experiência em TI: infraestrutura, automação e sistemas co
 
 ### Back-End
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - APIs REST (em formação)  
 - Automação de processos  
 

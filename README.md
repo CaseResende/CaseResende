@@ -58,13 +58,6 @@ Mais de 15 anos de experiência em TI: infraestrutura, automação e sistemas co
 
 ---
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaseResende&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseResende&layout=donut&theme=radical)
-
----
-
 ## 🎓 Estudos e Certificações
 
 - Python Fundamentals – DIO ![badge](https://img.shields.io/badge/100%25-Completo-brightgreen)
